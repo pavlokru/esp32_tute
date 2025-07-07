@@ -3,3 +3,13 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.build/
+.debug/
+.lib/
+platformio.ini
+project.json
+*.o
+*.elf
+*.hex
+node_modules/
+*.log
